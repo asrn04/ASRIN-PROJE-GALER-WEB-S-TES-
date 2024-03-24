@@ -1,0 +1,34 @@
+PROMPT 1 
+Uzman ve düzene önem veren Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir galeri  web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında çağımızın Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+----------------------------------------------------------------------------------------------------------------------------------------
+PROMPT 2 
+Web sitesi bir   portfolio galeri web sitesi ve burada Avengers Karakterlerinin Basketbolcu hallerini paylaşmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (başlık olarak Avengers Team , menü,  Basketbolcu Özellikleri, Basketbolcu Kariyerleri , İstatistikler) şeklindedir.
+Sayfamın başlık  bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette alt bilgi bölümünde olmasını istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir etrafı kırmızı  ızgarada 8 adet olmak üzere 300x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiğinde bir rüzgar geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+------------------------------------------------------------------------------------------------------------------------------------------
+PROMPT 3 
+User
+Javascript kodlarını da yazar mısın ? 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+PROMPT 4 
+Basketbolcu isimlerinin başlıklarının arka planına beyaz  bir arka plan ekle ve yazı stil rengini mora Çevir.
+------------------------------------------------------------------------------------------------------------------------------------------PROMPT 5 
+Ayrıca logo boyutunu 300x300 boyutuna getir  ayrıca sol ve sağ tarafa dayalı olarak düzenle.
+------------------------------------------------------------------------------------------------------------------------------------------
+PROMPT 6 
+Ben bu web sitesine basketbolcuların resimlerini nasıl ekleyebilirim ? 
+------------------------------------------------------------------------------------------------------------------------------------------
+

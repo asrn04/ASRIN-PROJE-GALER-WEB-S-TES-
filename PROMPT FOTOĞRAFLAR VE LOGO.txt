@@ -1,0 +1,25 @@
+LOGO PROMPT 1
+Avengers basketbol takımına ait bir logo tasarlar mısın ?
+
+IRONMAN BASKETBALL PLAYER PROMPT 
+Bana Ironman'i basketbolcu olarak yeniden tasarlar mısın ?
+
+HULK BASKETBALL PLAYER PROMPT 
+Bana Hulk'u basketbolcu olarak yeniden tasarlar mısın ?
+
+SPİDERMAN BASKETBALL PLAYER PROMPT 
+Bana spiderman’ı basketbol oyuncusu olarak tasarlar mısın ? 
+
+Captan AMERİCA BASKETBALL PLAYER PROMPT 
+Bana CaptanAmericayı ayakta duran bir basketbol oyuncusu olarak tasarlar mısın ?
+
+BLACKWİDOW BASKETBALL PLAYER PROMPT 
+Bana Blackwidow'u top süren bir basketbol oyuncusu olarak tasarlar mısın ?
+
+BLACKPANTHER BASKETBALL PLAYER PROMPT 
+Bana Blackpantheri çocuklarlar basketbol oynayan bir basketbol oyuncusu olarak tasvir eder misin ?
+THOR BASKETBALL PLAYER PROMPT 
+Bana THOR'u Thanos ile birebir basketbol maçı yaparken tasvir eder misin ?
+
+HAWKEYE BASKETBALL PLAYER PROMPT 
+Hawkeye karakterini basketbolcu olarak yaratır mısın ?
