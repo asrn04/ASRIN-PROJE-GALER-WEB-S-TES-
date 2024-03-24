@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avengers Basketbol</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="images/logo.jpeg" alt="Avengers Logo">
+            </div>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#avengers-team">Avengers Team</a></li>
+            <li><a href="#basketball-players">Basketbolcu Özellikleri</a></li>
+            <li><a href="#player-careers">Basketbolcu Kariyerleri</a></li>
+            <li><a href="#statistics">İstatistikler</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="avengers-team" class="section">
+            <h2>Avengers Team</h2>
+            <div class="gallery">
+                <!-- Avengers resimlerini buraya ekle -->
+            </div>
+        </section>
+
+        <section id="basketball-players" class="section">
+            <h2>Basketbolcu Özellikleri</h2>
+            <!-- Basketbolcu özelliklerini buraya ekle -->
+        </section>
+
+        <section id="player-careers" class="section">
+            <h2>Basketbolcu Kariyerleri</h2>
+            <!-- Basketbolcu kariyerlerini buraya ekle -->
+        </section>
+
+        <section id="statistics" class="section">
+            <h2>İstatistikler</h2>
+            <!-- İstatistikleri buraya ekle -->
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="logo">
+                <img src="images/logo.jpeg" alt="Avengers Logo">
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avengers Basketbol</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-left">
+                <img src="images/logo.jpeg" alt="Avengers Logo Left">
+            </div>
+            <div class="logo-right">
+                <img src="images/logo.jpeg" alt="Avengers Logo Right">
+            </div>
+        </div>
+    </header>
+
+    <!-- Diğer içerikler buraya gelecek -->
+
+    <footer>
+        <div class="container">
+            <div class="logo-left">
+                <img src="avengers_logo_left.png" alt="Avengers Logo Left">
+            </div>
+            <div class="logo-right">
+                <img src="avengers_logo_right.png" alt="Avengers Logo Right">
+            </div>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
